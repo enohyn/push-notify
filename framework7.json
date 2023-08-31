@@ -1,0 +1,19 @@
+{
+  "cwd": "/home/mr-shayok/Downloads/firebase-pn",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "firebase-pn",
+  "framework": "react",
+  "template": "single-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}

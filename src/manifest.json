@@ -1,0 +1,42 @@
+{
+  "name": "firebase-pn",
+  "short_name": "firebase-pn",
+  "description": "firebase-pn",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EE350F",
+  "theme_color": "#EE350F",
+  "icons": [
+    {
+      "src": "/icons/128x128.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/144x144.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/152x152.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/192x192.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/256x256.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/512x512.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
